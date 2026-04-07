@@ -19,3 +19,11 @@ Write a program that shows
 
 - how many grains were on each square, and
 - the total number of grains
+
+## Running Tests
+
+To run the test suite, execute the following command from the project root:
+
+```bash
+npx jasmine --config=spec/support/jasmine.json
+```
